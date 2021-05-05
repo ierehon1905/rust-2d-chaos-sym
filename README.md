@@ -1,3 +1,3 @@
 # rust-2d-chaos-sym
 
-[Preview](fractal.png)
+![Preview](fractal.png)
